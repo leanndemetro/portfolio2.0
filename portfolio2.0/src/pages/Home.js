@@ -14,6 +14,8 @@ function About() {
             <div className="jumbotron jumbotron-fluid">
                 <h1 className="display-4">ALYSSA DEMETRO</h1>
                 <p className="lead">FULL STACK WEB DEVELOPER -- ORLANDO</p>
+                
+                
               </div>
            
           </Col>

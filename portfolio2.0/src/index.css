@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 
+
 * {
   box-sizing: border-box;
   background-color: #FF66FF;
@@ -22,7 +23,7 @@ div.jumbotron {
   right: 25px;
   position: relative;
   background-color: #007BFF;
-  top: 40%;
+  top: 30%;
 
 
 }
