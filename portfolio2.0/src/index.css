@@ -3,7 +3,7 @@
 
 * {
   box-sizing: border-box;
-  background-color: #FF66FF;
+  background-color: #CCFFCC;
   font-family: 'Oswald', sans-serif;
 }
 
@@ -28,4 +28,18 @@ div.jumbotron {
 
 }
 
+img.portImg {
+ height: 90%;
+ width: 100%;
+}
 
+a.btn {
+  position: relative;
+ margin-top: 15px;
+}
+
+div.card {
+  height: 100%;
+  width: 100%;
+  
+}
